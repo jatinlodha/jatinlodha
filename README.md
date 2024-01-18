@@ -5,8 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinlodha&label=Profile%20views&color=0e75b6&style=flat" alt="jatinlodha" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/jatin-lodha-521758258?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4cfx9VLrRYaxyZme3Is4xw%3D%3D](https://www.linkedin.com/in/jatin-lodha-521758258?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4cfx9VLrRYaxyZme3Is4xw%3D%3D)
-
+- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/jatin-lodha-521758258
 - 📫 How to reach me **lowanshijatin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
